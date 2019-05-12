@@ -1,0 +1,6 @@
+owner=569947283421003777
+prefix=s
+game=Saoud | splay
+stayinchannel=true
+songinstatus=false
+token=NTc2NTQzNTQ3MDI1Nzg0ODUz.XNeh4A.B3bid57tRPbEKMC5rvhl8AzAx30
